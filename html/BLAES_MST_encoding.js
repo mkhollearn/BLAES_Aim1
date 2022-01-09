@@ -140,7 +140,6 @@ function experimentInit() {
   image_width = 0.5;
   image_height = 0.7;
   stim_size = [image_width, image_height];
-  stim_size = null;
   circle_resp_size = [0.2, 0.2];
   left_resp_pos = [(- 0.4), (- 0.4)];
   right_resp_pos = [0.4, (- 0.4)];
